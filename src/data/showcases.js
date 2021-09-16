@@ -595,6 +595,15 @@ const Showcases = [
     source: null,
     tags: ["nft"],
   },
+    {
+    title: "Happypus",
+    description:
+      "Collect. Trade. Share. Have Fun!",
+    preview: require("./showcase/happypus.png"),
+    website: "https://happypus.fun",
+    source: null,
+    tags: ["nft"],
+  },
   {
     title: "Pigy Token",
     description:
